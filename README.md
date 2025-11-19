@@ -13,7 +13,23 @@ All active development happens on **[GitLab](http://gitlab.com/shareui)**.
 
 ---
 
-## Tech Stack
+## Statistics
+
+<div align="center">
+  
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shareui&theme=nightowl&cache_seconds=21666)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shareui&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=21666)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shareui&layout=compact&theme=nightowl&hide_border=true&cache_seconds=21666)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shareui&theme=nightowl&hide_border=true&cache_seconds=21666)
+
+</div>
+
+---
+
+## Dev Stack
 
 <div align="center">
 
@@ -46,20 +62,6 @@ All active development happens on **[GitLab](http://gitlab.com/shareui)**.
 
 ---
 
-## Statistics
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shareui&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=21666)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shareui&layout=compact&theme=nightowl&hide_border=true&cache_seconds=21666)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shareui&theme=nightowl&hide_border=true&cache_seconds=21666)
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
@@ -74,6 +76,6 @@ All active development happens on **[GitLab](http://gitlab.com/shareui)**.
 
 <div align="center">
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=shareui&color=blueviolet&style=flat-square)
-  
+![Profile Views](https://komarev.com/ghpvc/?username=shareui&color=blueviolet&style=flat-square)
+
 </div>
