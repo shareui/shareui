@@ -6,13 +6,6 @@
 
 ---
 
-## About
-
-**Note:** This account is used exclusively for **releases**.  
-All active development happens on **[GitLab](http://gitlab.com/shareui)**.
-
----
-
 ## Statistics
 
 <div align="center">
