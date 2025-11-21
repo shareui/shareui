@@ -16,8 +16,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shareui&layout=compact&theme=nightowl&hide_border=true&cache_seconds=21666)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shareui&theme=nightowl&hide_border=true&cache_seconds=21666)
-
 </div>
 
 ---
