@@ -1,6 +1,6 @@
 # Hi :3
 
-**Favourite language: Rust** 
+I'm just a developer for myself.
 
 ---
 
