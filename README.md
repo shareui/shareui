@@ -12,7 +12,7 @@ I'm just a developer for myself.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shareui&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=21866)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shareui&layout=compact&theme=nightowl&hide_border=true&cache_seconds=21766&langs_count=20)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shareui&layout=compact&theme=nightowl&hide_border=true&cache_seconds=21767&langs_count=20)
 
 </div>
 
