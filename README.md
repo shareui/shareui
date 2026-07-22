@@ -2,27 +2,11 @@
 
 I'm just a developer for myself.
 
----
-
-## Statistics
-
-<div align="center">
-  
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shareui&theme=nightowl&cache_seconds=21666)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shareui&show_icons=true&theme=nightowl&hide_border=true&count_private=true&cache_seconds=21866)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shareui&layout=compact&theme=nightowl&hide_border=true&cache_seconds=21767&langs_count=20)
-
-</div>
-
----
-
 ## Contact
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/shareui)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/shareui)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1444575420195541145)
 
 > Discord: shareui
