@@ -4,16 +4,16 @@ I just wanna be a catgirl
 
 ## Contact
 
-telegram: shareui  
-discord: shareui
+Telegram: shareui  
+Discord: shareui
 
 ## Repositories
 
 ### exteraGram plugins
 
-[shareui/packit-source](https://github.com/shareui/packit-source) - Large app in xposed plugin [on rework]  
+[shareui/packit-source](https://github.com/shareui/packit-source) - Large app in xposed plugin **[on rework]**  
 [shareui/extera-pic2gif](https://github.com/shareui/extera-pic2gif) - Convert picture to silent mp3 in Telegram  
-[shareui/better-search](https://github.com/shareui/better-search) - Awesome plugin for exteraGram/AyuGram [paused]  
+[shareui/better-search](https://github.com/shareui/better-search) - Awesome plugin for exteraGram/AyuGram **[paused]**  
 
 ### Desktop
 
@@ -33,6 +33,6 @@ discord: shareui
 
 <div align="center">
   
-![Profile Views](https://komarev.com/ghpvc/?username=shareui&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=shareui&color=blueviolet&style=for-the-badge)
 
 </div>
