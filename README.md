@@ -19,6 +19,7 @@ Discord: shareui
 
 [shareui/hypr-limbo](https://github.com/shareui/hypr-limbo) - Limbo keys for linux (hyprland)  
 [shareui/nyano](https://github.com/shareui/nyano) - A simple utility for quick and easy file editing  
+[shareui/git-local-stats](https://github.com/shareui/git-local-stats) - Cli tool for github stats
 
 ### Minecraft
 
