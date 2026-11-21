@@ -9,6 +9,10 @@ Discord: shareui
 
 ## Repositories
 
+`*` - noteworthy projects
+
+### Yukino programming language
+
 ### exteraGram plugins
 
 [shareui/packit-source](https://github.com/shareui/packit-source) - Large app in xposed plugin **[on rework]**  
@@ -17,9 +21,9 @@ Discord: shareui
 
 ### Desktop
 
-[shareui/lacie](https://github.com/shareui/lacie) - A simple and dev-friendly crossplatform package manager  
+[shareui/lacie](https://github.com/shareui/lacie) - A simple and dev-friendly crossplatform package manager *  
 [shareui/hypr-limbo](https://github.com/shareui/hypr-limbo) - Limbo keys for linux (hyprland)  
-[shareui/nyano](https://github.com/shareui/nyano) - A simple utility for quick and easy file editing  
+[shareui/nyano](https://github.com/shareui/nyano) - A simple utility for quick and easy file editing *  
 [shareui/git-local-stats](https://github.com/shareui/git-local-stats) - Cli tool for github stats  
 
 ### Minecraft
@@ -28,7 +32,7 @@ Discord: shareui
 
 ### Libraries
 
-[shareui/bithash](https://github.com/shareui/bithash) - Hash function for comparing files (without cryptography). In 5-6 times faster than sha256  
+[shareui/bithash](https://github.com/shareui/bithash) - Hash function for comparing files (without cryptography). In 5-6 times faster than sha256 *  
 [shareui/scl-c](https://github.com/shareui/scl-c) - Dynamic library of the configuration language SCL [archive]  
 
 ---
