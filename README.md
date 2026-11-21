@@ -13,6 +13,12 @@ Discord: shareui
 
 ### Yukino programming language
 
+[yukitsuri/yukino](https://github.com/yukitsuri/yukino) - Yukino compiler *  
+[yukitsuri/vscode-yukino](https://github.com/yukitsuri/vscode-yukino) - Yukino Visual Studio Code extension  
+[yukitsuri/zed-yukino](https://github.com/yukitsuri/zed-yukino) - Yukino Zed extension  
+[yukitsuri/tree-sitter-yukino](https://github.com/yukitsuri/tree-sitter-yukino) - Tree sitter parser for Yukino  
+[yukitsuri/yukino-lsp](https://github.com/yukitsuri/yukino-lsp) - Yukino language server protocol
+
 ### exteraGram plugins
 
 [shareui/packit-source](https://github.com/shareui/packit-source) - Large app in xposed plugin **[on rework]**  
