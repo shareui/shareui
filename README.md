@@ -19,6 +19,13 @@ Discord: shareui
 [yukitsuri/tree-sitter-yukino](https://github.com/yukitsuri/tree-sitter-yukino) - Tree sitter parser for Yukino  
 [yukitsuri/yukino-lsp](https://github.com/yukitsuri/yukino-lsp) - Yukino language server protocol
 
+#### Yukino libraries
+
+[shareui/siesta](https://github.com/shareui/siesta) - Declarative TUI library *  
+[shareui/clarity](https://github.com/shareui/clarity) -  Declarative TUI library  
+[shareui/buildtool](https://github.com/shareui/buildtool) - C/C++/Rust build helper  
+[shareui/b64min](https://github.com/shareui/b64min) - Base64 minimal impl on Yukino  
+
 ### exteraGram plugins
 
 [shareui/packit-source](https://github.com/shareui/packit-source) - Large app in xposed plugin **[on rework]**  
